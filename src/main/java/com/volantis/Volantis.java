@@ -2,8 +2,9 @@ package com.volantis;
 
 public class Volantis 
 {
-	public static void main(String[] args)
+	public static  String panda() 
 	{
-		System.out.println("Panda panda panda panda");
+		String panda = "Panda panda panda panda";
+		return panda;
 	}
 }

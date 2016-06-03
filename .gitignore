@@ -1,2 +1,6 @@
 /target/
 .git
+*class
+.settings/
+.classpath
+.project
